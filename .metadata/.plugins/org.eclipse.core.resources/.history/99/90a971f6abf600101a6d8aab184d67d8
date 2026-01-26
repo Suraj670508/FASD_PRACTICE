@@ -1,8 +1,0 @@
-package com.klu.config;
-
-public class AppConfig {
-	@configuration
-	@CpmponentScan(basePackage="com.klu.model")
-	public class
-
-}
